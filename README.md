@@ -1,5 +1,7 @@
 # Hotel Terabithia: Plataforma Interna de Operações Hoteleiras
 
+!!!!!! Obs Senha pra teste 2678 !!!!!!!
+
 ## 1) Visão Geral
 
 Hoje vamos desenvolver um programa feito com vários outros programas utilizando um conceito de software modulado, feito com partes independentes. 
